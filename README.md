@@ -1,5 +1,5 @@
 
-# 📧 Smart Email Sorter (Machine Learning + Streamlit)
+# 📧 Smart Email Sorter 
 
 A simple ML project that automatically classifies emails into categories like
 **Work, Shopping, Promotion, Spam, Finance, Travel, Social**, etc.
