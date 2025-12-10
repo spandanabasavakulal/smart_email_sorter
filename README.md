@@ -58,6 +58,9 @@ The project is deployed on Streamlit Cloud:
 
 👉 **[https://smartemailsorter-wfzxgr7ngyrqxbevw2xbm4.streamlit.app/]**
 
+Prototype using figma:
+**[https://www.figma.com/make/RakGbQKJ6MBDe2AYAQLaz6/Smart-Email-Sorter-UI-Design?t=7bW1LKA93ThOy4ji-20&fullscreen=1]**
+
 
 ## Technologies Used
 
